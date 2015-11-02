@@ -1,0 +1,9 @@
+go into the terminal program, it looks like a black square and surround by the silvery lines
+clone your respository with the following command git clone --config="http.proxy=http://your-network-username:your-network-password@192.168.2.1:8080" https://github.com/your-github-username/your-github-repository-name.git
+go to your folder in your repository by use the command cd and your folder name
+to create new file use the command gedit and your new folder name
+the new window will pop up,it looks like white box that you can type something in and surround by the silvery lines
+if you finish editing your file click save and close window
+to move the file to your respository by using the command git add and filename
+then using command git commit -m "commit message"
+lastly, using command git push to push your file to github.com and you will type your github username and password to push your file 
