@@ -9,3 +9,12 @@ git commit -m "Added content to___"
 git add ___
 git push
 gedit ___ 
+sftp 
+
+sftp punch2475@cmis-hsteacher 
+put file
+put * (put everything)
+!ls (open the file in home folder) 
+ls * (list everthing) 
+ls *.__ (list the file) 
+
