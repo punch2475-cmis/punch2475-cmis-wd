@@ -17,4 +17,11 @@ put * (put everything)
 !ls (open the file in home folder) 
 ls * (list everthing) 
 ls *.__ (list the file) 
-
+font-family: ;
+font-size: ; 
+color:;
+border-style:;
+background-color:;
+http://1.bp.blogspot.com/-hOAi6q-wp2Y/Tofma7HwfSI/AAAAAAAAAHo/o2hD0cP2lAw/s1600/hexagon_800.gif 
+https://css-tricks.com/snippets/css/css-font-families/
+http://www.w3schools.com/css/css_border.asp
