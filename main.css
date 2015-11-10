@@ -1,5 +1,42 @@
 h1 {
-	font-family:Impact, Charcoal, sans-serif 
-	color:CC33FF;
+	font-family:Impact, fantasy; 
+	font-size: 70px;  
+	color:#CC33FF;
+	border-style:groove; 
+	background-color:#CCCCCC;
 }
+body { 
+	background-color:#FFFFCC;
+}
+title { 
+	font-family: "Times New Roman", Times,serif;
+	font-size: 30px; 
+	color:#6633CC;
+	border-style:inset;
+	background-color:#99CCFF;
+}
+p {
+	font-family:Impact, fantasy;
+	font-size: 35px;
+	color:#CC66CC;
+	border-style:outset;
+	background-color:#CCFFCC
+}
+footer {
+	font-family: Comic Sans, Comic Sans MS, cursive;
+	color:#FF6666;
+	border-style: dotted dashed solid double;
+	background-color:#FF99FF; 
+}
+h2 {
+	font-family: Andale Mono, monospace;
+	font-size: 45px;
+	color:#FF6666;
+	border-style: dashed;
+	background-color: #FFFFFF; 
+}
+html {
+	border-style:dashed;
+}
+
  
