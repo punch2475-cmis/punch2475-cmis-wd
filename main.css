@@ -1,12 +1,16 @@
 h1 {
 	font-family:Impact, fantasy; 
 	font-size: 70px;  
+	font-weight: normal;
+	font-variant: small-caps;
 	color:#CC33FF;
-	border-style:groove; 
+	border-style:groove dotted; 
+	border-width: 10px;
+	border-color: red green blue yellow;
 	background-color:#CCCCCC;
 }
 body { 
-	background-color:#FFFFCC;
+	background-color:#33FFFF;
 }
 title { 
 	font-family: "Times New Roman", Times,serif;
@@ -23,12 +27,16 @@ p {
 	background-color:#CCFFCC
 }
 footer {
-	font-family: Comic Sans, Comic Sans MS, cursive;
-	color:#FF6666;
-	border-style: dotted dashed solid double;
-	background-color:#FF99FF; 
+	font-family:"Times New Roman", Times, serif; 
+	font-size: 35px;  
+	font-weight: normal;
+	color:#FF3333;
+	border-style:dotted; 
+	border-width: 10px;
+	border-color:#FF0033 #993399 #CCDDCC #6633CC;
+	background-color:#CCCCCC;
 }
-h2 {
+h2 	{
 	font-family: Andale Mono, monospace;
 	font-size: 45px;
 	color:#FF6666;
@@ -37,6 +45,7 @@ h2 {
 }
 html {
 	border-style:dashed;
+	background-color:#0099FF;
 }
 
  
