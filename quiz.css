@@ -1,0 +1,56 @@
+h1 {
+	font-family:Impact, fantasy; 
+	font-size: 35px;  
+	font-weight: normal;
+	font-variant: small-caps;
+	color:yellow;
+	border-style:hidden; 
+	background-color:green;
+	margin-bottom: 00px;
+}
+h2 {
+	font-family:Impact, fantasy; 
+	font-size: 25px;  
+	font-weight: normal;
+	color:red;
+	border-style:hidden; 
+	background-color:yellow;
+	margin-top: 00px;
+}
+h4 {
+	font-family:Impact, fantasy; 
+	font-size: 25px;  
+	font-weight: normal;
+	color:yellow;
+	background-color:blue;
+}
+h3 {
+	font-family:Impact, fantasy; 
+	font-size: 25px;  
+	font-weight: normal;
+	color:blue;
+	border-bottom-style: dotted; 
+	background-color: orange;
+}
+p {
+	font-family:Impact, fantasy; 
+	font-size: 25px;  
+	font-weight: normal;
+	color:purple;
+}
+main {
+	border:dashed;
+	border-width: 5px;
+	border-color:red;
+}	
+footer {
+	font-family:Impact, fantasy; 
+	font-size: 5px;  
+	font-weight: normal;
+	color:black;
+	border:outset;
+	border-color: yellow blue red ;
+	background-color:red;
+	margin-top:100px;
+}
+	
