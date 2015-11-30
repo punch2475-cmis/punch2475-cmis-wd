@@ -1,0 +1,30 @@
+h1 { 
+	background-color: #FF9900;
+	width: 90px;
+	border: 25px groove red;
+	margin: 45px;
+	height: 45px;
+}
+nav {
+	background-color: yellow;
+	width:200px;
+	border: 5px dotted black;
+	padding: 30px;
+	margin:15px;
+	height:50px;
+}
+h2 {
+	background-color:#FFFF99;
+	width:200px;
+	border: 10px ridge #66FF66;
+	padding:15px;
+	height: 35px;
+}
+table > thead { 
+		background-color:#FFFF99; 
+}
+table > tbody {	
+		background-color: #33FFFF;
+}
+
+
