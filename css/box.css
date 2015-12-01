@@ -1,9 +1,12 @@
 h1 { 
 	background-color: #FF9900;
-	width: 100px;
+	width: 220px;
 	border: 15px groove red;
 	margin: 55px;
-	height: 35px;
+	height: 85px;
+	font-family:Impact, fantasy; 
+	font-size: 70px;  
+	font-weight: normal;
 }
 nav {
 	background-color: yellow;
@@ -12,6 +15,7 @@ nav {
 	padding: 30px;
 	margin:15px;
 	height:50px;
+	font-family:Impact, fantasy; 
 }
 h2 {
 	background-color:#FFFF99;
@@ -19,6 +23,7 @@ h2 {
 	border: 10px ridge #66FF66;
 	padding:15px;
 	height: 35px;
+ 	font-family: "Times New Roman", Times, serif;
 }
 table > thead { 
 		background-color:#66FF66; 
@@ -41,5 +46,12 @@ footer {
 	border: 5px dashed black;
 	margin:5px;
 	height:50px;
+}
+table { 
+	border: 5px solid black; 
+}
+html {
+	border-style:dashed;
+	background-color:#9999FF;
 }
 
