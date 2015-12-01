@@ -47,5 +47,21 @@ html {
 	border-style:dashed;
 	background-color:#0099FF;
 }
-
- 
+h4 {
+	border: 15px groove yellow; 
+	background-color:yellow;
+}
+ul {
+	border: 5px dashed red;
+	background-color:#9999FF;
+}
+h3 {
+	border: 10px dotted black;
+	background-color:white;
+}
+nav {
+	border: 10px outset yellow;
+}
+li + ul {
+	border: 10px outset yellow;
+}
