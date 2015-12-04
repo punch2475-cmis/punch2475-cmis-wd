@@ -1,0 +1,19 @@
+header {
+	background:red;
+}
+h1 { 
+	  border: solid yellow;
+}
+footer{
+	border: 10px dashed blue; 
+	padding:0px;
+}
+nav { 	
+	 border: 1px solid black;
+	 margin: 75px;
+}
+main {
+	background: #A9A9A9;
+	margin: 45px; 
+}
+
