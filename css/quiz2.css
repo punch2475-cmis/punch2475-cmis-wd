@@ -3,17 +3,57 @@ header {
 }
 h1 { 
 	  border: solid yellow;
+         
 }
 footer{
 	border: 10px dashed blue; 
-	padding:0px;
+	padding:10px;
+        background-color: blue;
+        
+        
 }
 nav { 	
 	 border: 1px solid black;
 	 margin: 75px;
+         width: 1000px;
 }
 main {
-	background: #A9A9A9;
+	background-color: #A9A9A9;
 	margin: 45px; 
 }
+p {
+        background-color: white;
+}
+p + p {
+        background-color: black;
+        color: white;
+}
+thead { 
+       background-color:yellow;  
+       
+       
+}
+tbody td{ 
+	background: white; 
+	text-align: center;
+	border-collapse: collapse;
+	width: 30%;
+}
+
+tbody th{
+        color: red;
+}
+
+
+th { background: yellow; }
+
+tfoot th{ 
+	background-color: red; 
+	color: yellow;
+}
+
+tfoot td{
+        background-color: white;
+}
+
 
