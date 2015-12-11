@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+main {
+	margin-left:301px;
+	font-family: 'Oswald', sans-serif;
+	float:left;
+	
+}
+nav {
+	width:300px
+	float:left;
+	border: 5px solid blue;
+	width:300px;
+}
+html {
+	border: 5px solid;
+}
+header {
+	font-family: 'Raleway', sans-serif;
+}
+html {
+	background-image:url("http://gaspix.net/wp-content/uploads/2015/03/polygon-pattern-copy.jpg");
