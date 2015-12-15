@@ -1,22 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Arvo);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 main {
-	margin-left:301px;
+	margin-left:300px;
 	font-family: 'Oswald', sans-serif;
 	float:left;
 	
 }
 nav {
-	width:300px
+	width:30px
 	float:left;
-	border: 5px solid blue;
-	width:300px;
+	border: 5px solid #E9096F;
+	width:200px;
 }
 html {
-	border: 5px solid;
+	border: 5px solid  #FF0000;
 }
 header {
 	font-family: 'Raleway', sans-serif;
 }
-html {
+body {
 	background-image:url("http://gaspix.net/wp-content/uploads/2015/03/polygon-pattern-copy.jpg");
+}
+img {
+	float: right;
+	clear:right;
+}
+h3 {
+	border: solid 5px #560021;
+	width:250px;
+}
+h2 {
+	border:groove 5px #C80000;
+	width:150px;
+	color:#B90048;
+}
+footer {
+	font-family: 'Arvo', serif;
+}	
